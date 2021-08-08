@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is AA9B-0AA0
+
+ Directory of C:\Users\Herman\Desktop\MyProject
+
+08/09/2021  03:36 AM    <DIR>          .
+08/09/2021  03:36 AM    <DIR>          ..
+08/09/2021  03:36 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  296,509,181,952 bytes free
